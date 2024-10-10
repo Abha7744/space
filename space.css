@@ -1,0 +1,45 @@
+body{
+  color:#8094c4;
+    text-align: center;
+    background-color: rgb(220, 245, 220);
+
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin:0;
+
+  
+
+}
+#space{
+  width: 100px;
+  
+
+}
+#queen{
+
+  background-image: url("images/travel.webp");
+    background-size:cover;
+    padding: 20px 0 50px 0;
+    
+    
+}
+
+#note{
+  text-shadow: 5px 6px 4px black;
+}
+
+
+.button{
+    font-weight:700;
+    border:none;
+    background-color:white;
+    color:#8094c4;;
+    font-weight: 900;
+    padding: 4px 8px;
+    font-family:  "Orbitron", sans-serif;
+}
+
+.underline{
+  border-bottom: 2px solid white;
+}
